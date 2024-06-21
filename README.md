@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Drinkn't.png" alt="Logo Aplikasi" width="200" height="200">
+</p>
+
 # Capstone Project 
 ## This is repository of C241-PS494 Capstone team Bangkit 2024 Batch 1
 
