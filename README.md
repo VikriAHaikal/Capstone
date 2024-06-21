@@ -24,8 +24,8 @@
 ### Dataset Links of This Project :
 [Dataset](https://drive.google.com/file/d/1cHIVLqe5M0nbnJW1HkdLMUSrsXSrDYdd/view?usp=drive_link)
 
-### Deployment Link APK LungXcan
-Download Link APK LungXcan:<br>
+### Deployment Link APK Drinkn't
+Download Link APK Drinkn't<br>
 [Drinkn't APK (Google Drive)](https://drive.google.com/file/d/1On3X3_znQMJfHZ1HQ7DwEn4OwfOBcuyX/view?usp=sharing)
 
 
